@@ -13,10 +13,12 @@ Requirements
 - ccxt 
 
 
+
 Installation -
 
 Clone the repository:
 git clone https://github.com/kabradhruv/Centralised-Cross-Exchange-Arbitrage-Finder.git
+
 cd crypto_arbitrage_project
 
 Create and activate a virtual environment (recommended):
@@ -35,4 +37,5 @@ Run the development server:
 python manage.py runserver
 
 Your Name - dhruvkabra30@gmail.com
+
 Project Link: https://github.com/kabradhruv/Centralised-Cross-Exchange-Arbitrage-Finder.git
