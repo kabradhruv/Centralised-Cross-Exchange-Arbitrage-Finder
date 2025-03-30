@@ -20,7 +20,9 @@ git clone https://github.com/kabradhruv/Centralised-Cross-Exchange-Arbitrage-Fin
 cd crypto_arbitrage_project
 
 Create and activate a virtual environment (recommended):
+
 python -m venv venv
+
 venv\Scripts\activate
 
 Install dependencies:
